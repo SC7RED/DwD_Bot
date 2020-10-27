@@ -16,4 +16,4 @@ async def membercount(ctx):
 
 member_count = len([m for m in ctx.guild.members if not m.bot]) # doesn't include bots
 
-bot.run('NzY4Mjg3MzYzOTM5OTU4Nzk3.X4-RXQ.UhbvRg58VlRC9GO1OyKRwT7ewZI')
+bot.run('YOUR TOKEN HERE')
